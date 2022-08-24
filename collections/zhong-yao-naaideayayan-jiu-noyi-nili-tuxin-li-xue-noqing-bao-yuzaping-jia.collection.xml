@@ -1,3 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11158</md:content-id>  <md:title>重要なアイデアや研究の役に立つ心理学の情報（ユーザー評価）</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>ja</md:language>      <md:uuid>9426f693-2399-42c2-a83f-bf8fef76cd4d</md:uuid>
-<md:slug>zhong-yao-naaideayayan-jiu-noyi-nili-tuxin-li-xue-noqing-bao-yuzaping-jia</md:slug>
-</metadata>  <col:content>          <col:module document="m33289"/>                            <col:module document="m33290"/>                            <col:module document="m33291"/>                            <col:module document="m33292"/>                            <col:module document="m33293"/>                            <col:module document="m33294"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Mark Pettinelli">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11158</md:content-id>
+    <md:title>&#x91CD;&#x8981;&#x306A;&#x30A2;&#x30A4;&#x30C7;&#x30A2;&#x3084;&#x7814;&#x7A76;&#x306E;&#x5F79;&#x306B;&#x7ACB;&#x3064;&#x5FC3;&#x7406;&#x5B66;&#x306E;&#x60C5;&#x5831;&#xFF08;&#x30E6;&#x30FC;&#x30B6;&#x30FC;&#x8A55;&#x4FA1;&#xFF09;</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>ja</md:language>
+    <md:uuid>9426f693-2399-42c2-a83f-bf8fef76cd4d</md:uuid>
+    <md:slug>zhong-yao-naaideayayan-jiu-noyi-nili-tuxin-li-xue-noqing-bao-yuzaping-jia</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m33289"/>
+    <col:module document="m33290"/>
+    <col:module document="m33291"/>
+    <col:module document="m33292"/>
+    <col:module document="m33293"/>
+    <col:module document="m33294"/>
+  </col:content>
+</col:collection>
